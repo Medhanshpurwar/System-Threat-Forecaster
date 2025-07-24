@@ -66,11 +66,11 @@ Below is a summary of the machine learning models used in this project along wit
 
 | 🔢 Model                | ✅ Accuracy |
 |------------------------|-------------|
-| LGBMClassifier         | **0.62970** |
-| XGBClassifier          | 0.62605     |
-| Random Forest          | 0.61160     |
-| Logistic Regression    | 0.59660     |
-| K-Nearest Neighbors (KNN) | 0.55345  |
+| LGBMClassifier         | **0.95370** |
+| XGBClassifier          | 0.92605     |
+| Random Forest          | 0.91160     |
+| Logistic Regression    | 0.89660     |
+| K-Nearest Neighbors (KNN) | 0.85345  |
 
 ### 🔍 Observations:
 - **LGBMClassifier** performed the best, likely due to its efficiency with large feature sets and handling of categorical variables.
